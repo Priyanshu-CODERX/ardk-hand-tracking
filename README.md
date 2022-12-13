@@ -15,7 +15,7 @@ Make sure to use Unity 2020 or higher versions for this project to work properly
 <img alt="unity hub" width="500px" src="https://i.postimg.cc/tyf4TqW9/ss1.jpg" ></img>
 * Install Android Build Support, OpenJDK, Android SDK & NDK Tools
 <img alt="unity hub" width="500px" src="https://i.postimg.cc/YCDybnBV/ss2.jpg" ></img>
-* Clone the repository `https://github.com/Priyanshu-CODERX/ardk-occlusion-and-meshing.git`
+* Clone the repository `https://github.com/Priyanshu-CODERX/ardk-hand-tracking.git`
 * Open the project with your Unity Engine
 * Switch build platform to Android
 * Go to project setting's and change the minimum api level to `Android 7.0 API Level 23`
